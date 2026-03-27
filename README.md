@@ -46,3 +46,4 @@ Risk explanation with insights
 
 Dashboard for loan comparison
 
+Visit Site @ https://magenta91.github.io/Quick-Loan-legitimate-Prediction/
