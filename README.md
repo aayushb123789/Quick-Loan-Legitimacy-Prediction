@@ -1,6 +1,3 @@
-# Quick-Loan-Legitimacy-Prediction
-The loan legitimacy prediction system is designed to assess non-banking financial companies (NBFCs) and loan offers. This project helps users make informed loan decisions based on factors like interest rates, repayment terms, data permissions, and company credibility.
-
 💸 Quick Loan Legitimacy Prediction System
 An intelligent system designed to evaluate the legitimacy of loan offers and Non-Banking Financial Companies (NBFCs). This platform helps users make safer financial decisions by analyzing critical factors such as interest rates, repayment terms, data permissions, and company credibility.
 
@@ -8,6 +5,7 @@ An intelligent system designed to evaluate the legitimacy of loan offers and Non
 The Quick Loan Legitimacy Prediction System leverages machine learning and rule-based analysis to detect fraudulent or risky loan offers. It acts as a decision-support tool for users before applying for loans.
 
 ✨ Features
+
 🔍 Core Functionality
 Loan Legitimacy Prediction: ML-based classification of loan offers (Safe / Risky / Fraudulent)
 
